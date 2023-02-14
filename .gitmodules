@@ -1,3 +1,4 @@
 [submodule "faithjs"]
 	path = faithjs
 	url = https://github.com/sairoutine/faithjs
+	ignore = dirty

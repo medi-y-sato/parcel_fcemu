@@ -1,5 +1,7 @@
 # parcelでFCエミュ
 
+<https://github.com/medi-y-sato/parcel_fcemu>
+
 ## ナニコレ
 
 parcelでJavaScriptのFCエミュを読み込んで動かしてみることで、parcelの強力さをデモる
@@ -46,6 +48,6 @@ npx light-server -s ./dist/ -p 4000
 
 ## 使ったもの
 
-FCエミュ : https://github.com/sairoutine/faithjs
+FCエミュ : <https://github.com/sairoutine/faithjs>
 
-デモROM : https://littlelimit.net/bad_apple_2_5.htm
+デモROM : <https://littlelimit.net/bad_apple_2_5.htm>
